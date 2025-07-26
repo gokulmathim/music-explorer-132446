@@ -1,1 +1,3 @@
-# music-explorer-132446
+# Project Repository
+
+This is the initial README file for the project.
